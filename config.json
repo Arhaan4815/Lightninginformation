@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/lightninginfo",
+    "prod_uri":"mysql://root:@localhost/lightninginfo",
+    "fb_url":"https://facebook.com/lightninginfo",
+    "twi_url":"https://twitter.com",
+    "gh_url": "https://github.com",
+    "blog_name": "Lightning Info",
+    "tag_line": "A place of knowledge",
+    "gmail-user":"vaibhavasrivastava766@gmail.com",
+    "gmail-password":"kvaxdvrwjnxghlpi",
+    "about_text":"Hi my name is Arhaan Raunak Srivastava and I am the admin of this website and thank you for visiting my website.",
+    "number_of_posts": 3,
+    "login_image":"login.svg",
+    "username_for_dashboard":"ArhaanRS",
+    "password_for_dashboard": "2110164815",
+    "upload_location": "C:\\Users\\mymai\\PycharmProjects\\Flask\\static\\assets\\img",
+    "gmail2-user": "mymail.ps87@gmail.com"
+
+  }
+}
